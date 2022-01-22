@@ -1,1 +1,1 @@
-# www.resek.github.io/resek
+# https://www.resek.github.io/
