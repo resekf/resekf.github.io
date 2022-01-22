@@ -1,1 +1,0 @@
-resek.github.io
